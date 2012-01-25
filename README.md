@@ -6,4 +6,4 @@ This is a port of jQuery UI that uses the embedded version of jQuery in Kynetx R
     use css resource "http://your-server.com/themes/smoothness/jquery-ui.css"
     use javascript resource "http://your-server.com/krl-jquery-ui.min.js"
 
-This project also includes a port of [Aristo jQuery theme](https://github.com/taitems/Aristo-jQuery-UI-Theme) by [Tait Brown] (https://github.com/taitems).
+This project also includes a port of [Aristo jQuery theme](https://github.com/taitems/Aristo-jQuery-UI-Theme) by [Tait Brown] (https://github.com/taitems). Check out the [demo page](http://edorcutt.github.com/krl-jquery-ui/aristo.html) to see the how this awesome theme looks in action.
